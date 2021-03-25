@@ -8,8 +8,7 @@
 ____
 ### Project Info
 
-You can search a lot of search engines and there info here, such as the keyword and queries.
-
+You can search a lot of search engines and their info here, such as the keyword and queries.
 ____
 ### Links
 
