@@ -1,0 +1,8 @@
+Name:
+Reddit
+
+Keyword:
+reddit.com
+
+Query:
+https://www.reddit.com/search?q=

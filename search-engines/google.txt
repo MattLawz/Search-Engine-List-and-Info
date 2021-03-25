@@ -1,0 +1,8 @@
+Name:
+Google
+
+Keyword:
+:g
+
+Query:
+https://www.google.com/search?q=

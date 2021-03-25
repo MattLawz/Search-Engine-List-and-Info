@@ -1,0 +1,8 @@
+Name:
+YouTube
+
+Keyword:
+youtube.com
+
+Query:
+https://www.youtube.com/results?search_query=

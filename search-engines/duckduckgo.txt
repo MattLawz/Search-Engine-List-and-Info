@@ -1,0 +1,8 @@
+Name:
+DuckDuckGo
+
+Keyword:
+:d
+
+Query:
+https://duckduckgo.com/?q=

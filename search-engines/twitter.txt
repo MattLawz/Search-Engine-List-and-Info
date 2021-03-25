@@ -1,0 +1,8 @@
+Name:
+Twitter
+
+Keyword:
+twitter.com
+
+Query:
+https://twitter.com/search?q=

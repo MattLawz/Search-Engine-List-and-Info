@@ -1,0 +1,8 @@
+Name:
+Tripadvisor
+
+Keyword:
+tripadvisor.com
+
+Query:
+https://www.tripadvisor.com/Search?q=

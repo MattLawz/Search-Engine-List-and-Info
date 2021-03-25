@@ -1,0 +1,8 @@
+Name:
+ccSearch
+
+Keyword:
+creativecommons.org
+
+Query:
+https://search.creativecommons.org/search?q=

@@ -1,0 +1,8 @@
+Name:
+GitHub
+
+Keyword:
+github.com
+
+Query:
+https://github.com/search?q=

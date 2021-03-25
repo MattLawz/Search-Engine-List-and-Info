@@ -1,0 +1,8 @@
+Name:
+Qwant
+
+Keyword:
+:q
+
+Query:
+https://www.qwant.com/?q=

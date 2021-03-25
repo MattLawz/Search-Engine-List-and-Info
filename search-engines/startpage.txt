@@ -1,0 +1,8 @@
+Name:
+StartPage
+
+Keyword:
+:sp
+
+Query:
+https://www.startpage.com/do/search?q=

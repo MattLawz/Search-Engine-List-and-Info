@@ -1,0 +1,8 @@
+Name:
+Pinterest
+
+Keyword:
+pinterest.com
+
+Query:
+https://www.pinterest.com/search/pins/?q=

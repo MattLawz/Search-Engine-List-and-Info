@@ -1,0 +1,8 @@
+Name:
+Ecosia
+
+Keyword:
+:e
+
+Query:
+https://www.ecosia.org/search?q=

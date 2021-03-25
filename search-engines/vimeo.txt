@@ -1,0 +1,8 @@
+Name:
+Vimeo
+
+Keyword:
+vimeo.com
+
+Query:
+https://vimeo.com/search?q=

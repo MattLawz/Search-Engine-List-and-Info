@@ -1,0 +1,8 @@
+Name:
+Bing
+
+Keyword:
+:b
+
+Query:
+https://www.bing.com/search?q=

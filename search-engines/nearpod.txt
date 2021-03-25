@@ -1,0 +1,8 @@
+Name:
+Nearpod
+
+Keyword:
+nearpod.com
+
+Query:
+https://app.nearpod.com/?pin=

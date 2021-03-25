@@ -1,0 +1,8 @@
+Name:
+Aol
+
+Keyword:
+aol.com
+
+Query:
+https://search.aol.com/aol/search?q=

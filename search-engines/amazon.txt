@@ -1,0 +1,8 @@
+Name:
+Amazon
+
+Keyword:
+amazon.com
+
+Query:
+https://www.amazon.com/s?k=

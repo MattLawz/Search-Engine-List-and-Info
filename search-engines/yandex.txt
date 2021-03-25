@@ -1,0 +1,8 @@
+Name:
+Yandex
+
+Keyword:
+yandex.com
+
+Query:
+https://yandex.com/search/?text=

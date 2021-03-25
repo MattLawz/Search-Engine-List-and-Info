@@ -1,0 +1,8 @@
+Name:
+Soundcloud
+
+Keyword:
+soundcloud.com
+
+Query:
+https://soundcloud.com/search?q=

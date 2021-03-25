@@ -1,0 +1,8 @@
+Name:
+Gibiru
+
+Keyword:
+gibiru.com
+
+Query:
+https://gibiru.com/results.html?q=

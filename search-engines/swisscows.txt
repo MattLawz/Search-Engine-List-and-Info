@@ -1,0 +1,8 @@
+Name:
+Swisscows
+
+Keyword:
+swisscows.com
+
+Query:
+https://swisscows.com/web?query=
